@@ -5,4 +5,4 @@ I’m currently working on [Selfcustody organization](https://github.com/selfcus
 - Nostr pubkey: npub1kyglvayh649etnjf2jznlynsrx0uz63vaehuc2pjhwdtj9vph88qyvph68
 - PGP pubkey: B4281DDDFBBD207BFA4113138974C90299326322
 
-Tip of the day: As member of Krux team, i do not support Diyseclab.
+Tip of the day: As member of Krux team, i do not support Diyseclab neither the Bitkit marketing. Always install yourself Krux in your devices.
